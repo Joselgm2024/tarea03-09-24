@@ -1,0 +1,168 @@
+*
+{
+    margin: 0px;
+}
+.caja1{
+    background-color: chocolate;
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 100px;
+    left: 550px;
+
+}
+.caja1-1
+{
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 30px;
+    position: fixed;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    top: 150px;
+    left: 590px;
+}
+.caja1-2
+{
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    position: fixed;
+    top: 150px;
+    left: 680px;
+}
+.caja1-3
+{
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    border-width: 15px;
+    position: fixed;
+    top: 200px;
+    left: 630px;
+}
+.caja1-4
+{
+    background-color: chocolate;
+    width: 40px;
+    height: 10px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    border-width: 10px;
+    position: fixed;
+    top: 250px;
+    left: 620px;
+}
+.caja2{
+    background-color: chocolate;
+    border-radius: 300px;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    top: 320px;
+    left: 500px;
+
+}
+.caja2-1{
+    background-color: white;
+    border-radius: 100px;
+    width: 70px;
+    height: 120px;
+    position: fixed;
+    top: 420px;
+    left: 620px;
+
+}
+.caja2-1-1{
+    background-color:chocolate;
+    border-radius: 70px;
+    width: 60px;
+    height: 100px;
+    position: fixed;
+    top: 430px;
+    left: 620px;
+
+}
+.caja2-1-1-1{
+    background-color:white;
+    border-radius: 50px;
+    width: 50px;
+    height: 60px;
+    position: fixed;
+    top: 440px;
+    left: 630px;
+
+}
+.caja3{
+    background-color: coral;
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    position: fixed;
+    top: 85px;
+    left: 530px;
+
+}
+.caja4{
+    background-color: coral;
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    position: fixed;
+    top: 85px;
+    left: 710px;
+}
+.caja5{
+    background-color: coral;
+    width: 90px;
+    height: 50px;
+    border-radius: 90px;
+    position: fixed;
+    top: 360px;
+    left: 780px;
+}
+.caja6{
+    background-color: coral;
+    width: 90px;
+    height: 50px;
+    border-radius: 90px;
+    position: fixed;
+    top: 360px;
+    left: 430px;
+}
+.caja7{
+    background-color: coral;
+    width: 90px;
+    height: 50px;
+    border-radius: 90px;
+    position: fixed;
+    top: 570px;
+    left: 470px;
+}
+.caja8{
+    background-color: coral;
+    width: 90px;
+    height: 50px;
+    border-radius: 90px;
+    position: fixed;
+    top: 570px;
+    left: 740px;
+}
+p{
+    color:black;
+    font-size: large;
+    
+}
+
+
